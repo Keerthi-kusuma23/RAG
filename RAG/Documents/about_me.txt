@@ -1,0 +1,32 @@
+Vivek Kumar Pandey
+Overview
+Vivek Kumar Pandey is an Indian Generative AI Engineer and AI specialist with 6 years of experience in building production-grade AI systems. He is recognized for his expertise in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI solutions. Vivek has successfully delivered intelligent assistants, multi-agent systems, and automation frameworks across diverse domains including real estate, healthcare, and enterprise software.
+He is highly skilled in orchestrating scalable AI pipelines using Python, LangChain, FastAPI, and Azure OpenAI, with strong proficiency in vector databases such as FAISS, Chroma, and Qdrant. His work emphasizes performance optimization, cloud-native deployments on AWS and Azure, and integrating NLP-powered solutions to enhance business workflows.
+In addition to his engineering contributions, Vivek has mentored teams, authored reusable AI workflows, and driven innovations in multi-modal agents, dynamic chatbot builders, and CRM assistants. His focus is on designing secure, scalable, and human-aligned AI systems that improve efficiency and enable intelligent automation.
+
+Early Life and Education
+Vivek was born and raised in India. He pursued his Bachelor of Technology (B.Tech) in Computer Science from People’s University, Bhopal, and later completed his Master of Technology (M.Tech) in Data Science from Sage University, Bhopal, graduating with distinction. His academic foundation in computer science and data science shaped his career in AI and machine learning.
+
+Career
+Early Career and Growth
+Vivek began his career working on software engineering and ML solutions, where he developed predictive models, workflow automation tools, and scalable APIs. During this phase, he contributed to building reusable components, led automation testing initiatives, and optimized enterprise systems for high performance and reliability.
+He gradually transitioned into Generative AI, where he specialized in LLMs, RAG pipelines, and multi-agent systems. This shift allowed him to merge his software engineering background with advanced AI capabilities, setting the foundation for his current expertise in agentic workflows and AI-powered business automation.
+
+Professional Career
+Over the past 6 years, Vivek has worked as an AI Engineer across multiple industries, leading projects such as:
+
+1. Healthcare Test Case Automation: Built an AI-powered pipeline to generate and manage test cases mapped to regulatory standards, integrating seamlessly with Jira and Azure DevOps.
+2. Intelligent Web Automation with Autogen Agents: Designed multi-agent systems for browser workflow automation using Playwright and GPT-based reasoning.
+3. AI-Powered Jira Assistant: Delivered contextual response generation using LLMs and RAG, reducing manual ticket handling by 40%.
+4. Multilingual Website Translator: Automated localization workflows for international platforms, reducing manual translation effort by 80%.
+5. Domain-Specific Chatbots: Designed lead generation, CRM, and knowledge-based AI assistants using LangChain, RAG, and vector stores.
+6. No-Code Chatbot Builder: Enabled non-technical users to build dynamic AI workflows through JSON-based orchestration.
+
+Through these initiatives, Vivek has consistently demonstrated the ability to design AI systems that are enterprise-ready, scalable, and impactful.
+
+Philosophy and Vision
+Vivek believes in combining technical excellence with problem-solving empathy. His approach to AI engineering focuses on making AI accessible, reliable, and business-driven. With a vision to advance agentic AI systems, he aims to push the boundaries of intelligent automation and enable organizations to harness AI responsibly and efficiently.
+
+External Links
+LinkedIn: linkedin.com/in/vivek-kumar-pandey-aaa08213a
+Microsoft Profile: learn.microsoft.com/en-us/users/vivekkumarpandey-8830
